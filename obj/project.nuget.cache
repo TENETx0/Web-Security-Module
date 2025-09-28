@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sAlo3KrlWA=",
+  "success": true,
+  "projectFilePath": "F:\\Project Prototypes\\My Project\\SecurityModule\\SecurityModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monis\\.nuget\\packages\\system.codedom\\9.0.4\\system.codedom.9.0.4.nupkg.sha512",
+    "C:\\Users\\monis\\.nuget\\packages\\system.management\\9.0.4\\system.management.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
